@@ -81,21 +81,48 @@ Designed and developed interactive websites while exploring **frontend developme
 
 ---
 
+
+```md
 # 🌱 CURRENTLY LEARNING
 
-```text
-⚡ MICROCONTROLLERS
-      ↓
-📡 SENSOR INTERFACING
-      ↓
-🔧 BREADBOARD PROTOTYPING
-      ↓
-⚙️ EMBEDDED SYSTEMS
-      ↓
-💻 SOFTWARE DEVELOPMENT
-      ↓
-🌐 WEB DEVELOPMENT
+<p align="center">
 
-## 🎯 My Goal
+⚡ **MICROCONTROLLERS**
 
-My goal is to continuously develop my knowledge in Electrical Engineering while building practical projects that combine electronics, embedded systems, automation, software development, web technologies, and sustainable energy solutions.
+⬇️
+
+📡 **SENSOR INTERFACING**
+
+⬇️
+
+🔧 **BREADBOARD PROTOTYPING**
+
+⬇️
+
+⚙️ **EMBEDDED SYSTEMS**
+
+⬇️
+
+💻 **SOFTWARE DEVELOPMENT**
+
+⬇️
+
+🌐 **WEB DEVELOPMENT**
+
+</p>
+
+---
+
+# 🎯 MY GOAL
+
+My goal is to continuously develop my knowledge in Electrical Engineering while building practical projects that combine:
+
+<p align="center">
+
+⚡ **ELECTRONICS** &nbsp; • &nbsp;
+🤖 **EMBEDDED SYSTEMS** &nbsp; • &nbsp;
+💻 **SOFTWARE** &nbsp; • &nbsp;
+🌐 **WEB TECHNOLOGY** &nbsp; • &nbsp;
+🔋 **SUSTAINABLE ENERGY**
+
+</p>
