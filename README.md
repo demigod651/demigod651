@@ -1,49 +1,100 @@
-# Hi, I'm Subarna Mukherjee 👋
+<!-- CYBERPUNK HEADER -->
 
-### Electrical Engineering Student | Embedded Systems, Software & Renewable Energy Enthusiast
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001F3F,100:00C2FF&height=220&section=header&text=Subarna%20Mukherjee&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Electrical%20Engineering%20%7C%20Embedded%20Systems%20%7C%20Technology&descAlignY=58&descSize=18" />
 
-I am an Electrical Engineering student with a growing interest in embedded systems, electronics, automation, software development, and renewable energy technologies. I enjoy exploring how electrical hardware, microcontrollers, sensors, software, and web technologies can be integrated to develop practical solutions for real-world problems.
+<h3 align="center">⚡ Welcome to my Digital Lab ⚡</h3>
 
-Currently, I am strengthening my knowledge of microcontrollers, sensors, electronic components, and breadboard-based circuit prototyping. Alongside electronics, I am also exploring software development and web development to understand how digital applications can complement hardware-based engineering solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Electrical+Engineering+Student;Exploring+Microcontrollers+and+Embedded+Systems;Building+with+Sensors+and+Electronics;Learning+Software+Development;Exploring+Web+Development+and+Interactive+Applications;Engineering+Ideas+Into+Reality" />
+</p>
 
-## 🔬 Areas of Interest
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=demigod651&label=PROFILE+VISITORS&color=00C2FF&style=for-the-badge" />
+</p>
 
-- ⚡ Electrical & Electronic Engineering
-- 🤖 Embedded Systems and Microcontrollers
-- 📡 Sensors and Electronic Interfacing
-- 🔧 Breadboard-Based Circuit Prototyping
-- ⚙️ Automation and Smart Systems
-- 💻 Software & Interactive Application Development
-- 🌐 Web Development
-- 🔋 Renewable Energy Technologies
-- 🚗 Electric Vehicles and Smart Charging Systems
+---
 
-## 🚀 Previous Work & Projects
+# ⚡ ABOUT ME
+
+I am an Electrical Engineering student interested in the intersection of **electronics, embedded systems, automation, software development, and renewable energy**. I enjoy exploring how hardware and software can work together to solve practical engineering problems.
+
+Currently, I am building my understanding of **microcontrollers, sensors, electronic components, breadboard-based prototyping, and hardware-software integration**. Alongside my engineering studies, I am also exploring software development, interactive applications, and web technologies.
+
+> **"Turning ideas into circuits, code, and real-world solutions."**
+
+---
+
+# 🛠️ TECHNOLOGIES & TOOLS
+
+### 💻 Programming & Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp&theme=dark" />
+</p>
+
+### ⚡ Electronics & Engineering
+
+<p align="left">
+🔧 Microcontrollers &nbsp; | &nbsp;
+📡 Sensors & Modules &nbsp; | &nbsp;
+⚙️ Embedded Systems &nbsp; | &nbsp;
+🔌 Breadboard Prototyping
+</p>
+
+### 🌐 Currently Exploring
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
+
+---
+
+# 🚀 FEATURED PROJECTS
 
 ### ⚡ Smart Electric Fencing System
-Explored a system aimed at addressing electricity theft and improving monitoring within electric fencing infrastructure.
+
+Explored a smart electrical fencing concept focused on addressing **electricity theft and improving system monitoring**.
+
+---
 
 ### 🔋 Renewable Energy-Based Smart EV Charging Station
-Worked on the concept of an intelligent EV charging system integrated with renewable energy sources, particularly solar energy, with a focus on efficient energy management.
+
+Worked on a concept for an intelligent EV charging system integrating **solar energy, renewable power sources, and intelligent energy management**.
+
+---
 
 ### 🚗 RC-Based Vehicle Projects
-Explored RC vehicle systems, including electronic components, control mechanisms, and practical applications.
+
+Explored RC vehicle systems, electronic components, control mechanisms, and their practical engineering applications.
+
+---
 
 ### 💻 Interactive Software Development
-Developed interactive software projects focused on animations, user interaction, and creative programming concepts.
+
+Developed and experimented with interactive software applications involving **animations, movement, user interaction, and creative programming concepts**.
+
+---
 
 ### 🌐 Website Development
-Designed and developed interactive websites while exploring frontend development and web-based user experiences.
 
-## 🌱 Currently Learning
+Designed and developed interactive websites while exploring **frontend development, user interaction, and web-based experiences**.
 
-- 🤖 Microcontrollers and Embedded Systems
-- 📡 Sensor Interfacing and Electronic Modules
-- 🔧 Breadboard Circuit Design and Hardware Prototyping
-- ⚙️ Automation and Hardware-Software Integration
-- 💻 Software Development
-- 🌐 Website Development and Frontend Technologies
-- 🧩 Interactive Application Development
+---
+
+# 🌱 CURRENTLY LEARNING
+
+```text
+⚡ MICROCONTROLLERS
+      ↓
+📡 SENSOR INTERFACING
+      ↓
+🔧 BREADBOARD PROTOTYPING
+      ↓
+⚙️ EMBEDDED SYSTEMS
+      ↓
+💻 SOFTWARE DEVELOPMENT
+      ↓
+🌐 WEB DEVELOPMENT
 
 ## 🎯 My Goal
 
