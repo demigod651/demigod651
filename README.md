@@ -85,7 +85,6 @@ Designed and developed interactive websites while exploring **frontend developme
 ```md
 # 🌱 CURRENTLY LEARNING
 
-<p align="center">
 
 ⚡ **MICROCONTROLLERS**
 
@@ -109,7 +108,6 @@ Designed and developed interactive websites while exploring **frontend developme
 
 🌐 **WEB DEVELOPMENT**
 
-</p>
 
 ---
 
@@ -117,12 +115,10 @@ Designed and developed interactive websites while exploring **frontend developme
 
 My goal is to continuously develop my knowledge in Electrical Engineering while building practical projects that combine:
 
-<p align="center">
 
-⚡ **ELECTRONICS** &nbsp; • &nbsp;
-🤖 **EMBEDDED SYSTEMS** &nbsp; • &nbsp;
-💻 **SOFTWARE** &nbsp; • &nbsp;
-🌐 **WEB TECHNOLOGY** &nbsp; • &nbsp;
+⚡ **ELECTRONICS** 
+🤖 **EMBEDDED SYSTEMS** 
+💻 **SOFTWARE** 
+🌐 **WEB TECHNOLOGY** 
 🔋 **SUSTAINABLE ENERGY**
 
-</p>
